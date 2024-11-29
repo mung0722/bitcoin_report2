@@ -1,1 +1,17 @@
-*{margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif;}
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo.css');
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif; font-family: 'Apple SD Gothic Neo', sans-serif;}
+#wrap #title{
+    width: 100%;
+    padding-right: 10px;
+    margin-bottom: 5px;
+}
+#wrap #title h1{
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+#wrap #title .source{
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+    display: block;
+    text-align: right;
+}

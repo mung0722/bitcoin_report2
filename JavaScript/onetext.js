@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const elements = document.body.querySelectorAll('*'); // 모든 요소를 선택
-  const delay = 100; // 글자 출력 속도 (ms)
+  const delay = 30; // 글자 출력 속도 (ms) 기본 100
   let textArray = [];
 
   // 모든 텍스트 노드를 추출하여 배열에 저장
