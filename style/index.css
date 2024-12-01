@@ -150,7 +150,5 @@ body {
     margin-top: 5px;
   }
   .custom-window-header .title{
-    margin-top: 1px;
-    margin: 0 auto;
-    margin-top: 3px;
+    text-align: center;
   }
